@@ -68,7 +68,7 @@ Essentials/
 │
 ├── C1_Final_Assessment.xlsx
 └── C1_Final_Assessment - Solution.xlsx
-
+ ```
 
 ---
 
@@ -84,7 +84,7 @@ Essentials/
 - Creating dynamic charts and dashboards  
 
 **Folder Structure Example:**
-
+ ```
 Intermediate_I/
 │
 ├── Week 1/
@@ -121,7 +121,7 @@ Intermediate_I/
 ├── C2_Final_Assessment_01 - Solution.xlsx
 ├── C2_Final_Assessment_02.xlsx
 └── C2_Final_Assessment_02 - Solution.xlsx
-
+ ```
 ---
 
 ### 📈 **Course 3 — Excel Skills for Business: Intermediate II**
@@ -136,7 +136,7 @@ Intermediate_I/
 - Introduction to PivotTables and PivotCharts  
 
 **Folder Structure Example:**
-
+ ```
 Intermediate_II/
 │
 ├── Week 1/
@@ -171,7 +171,7 @@ Intermediate_II/
 │
 ├── C3_Final_Assessment.xlsx
 └── C3_Final_Assessment - Solution.xlsx
-
+ ```
 ---
 
 ### 🧮 **Course 4 — Excel Skills for Business: Advanced**
@@ -186,7 +186,7 @@ Intermediate_II/
 - Workbook protection and auditing  
 
 **Folder Structure Example:**
-
+ ```
 Advanced/
 │
 ├── Week 1/
@@ -219,7 +219,7 @@ Advanced/
 │
 ├── C4_Final_Assessment.xlsx
 └── C4_Final_Assessment - Solution.xlsx
-
+ ```
 ## 💡 My Learning Journey
 
 Completing this specialization marked my **progression from a beginner to an advanced Excel user**.  
