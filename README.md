@@ -283,7 +283,7 @@ For official course materials and enrollment, visit:
 ## 👤 Author
 
 **Name:** Jaime Rodriguez De Ledesma Jimenez  
-**Email:** jaime.rodriguezdeledesma@gmail.com 
+**Email:** jaime.rodriguezdeledesma@gmail.com <br>
 **LinkedIn:** [https://www.linkedin.com/in/jaime-rodriguez-de-ledesma-jimenez](https://www.linkedin.com/in/jaime-rodriguez-de-ledesma-jimenez)  
 **GitHub:** [https://github.com/jaime-rodriguezdeledesmajimenez](https://github.com/jaime-rodriguezdeledesmajimenez)  
 **Last Updated:** October 2025
