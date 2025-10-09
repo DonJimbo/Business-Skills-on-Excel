@@ -33,40 +33,42 @@ Upon completion, learners receive an **official certificate** jointly issued by 
 
 **Folder Structure Example:**
 
+ ```
 Essentials/
 │
 ├── Week 1/
-│ ├── Exercises/
-│ ├── C1_W01_Challenge.xlsx
-│ └── C1_W01_Challenge - Solution.xlsx
+│   ├── Exercises/
+│   ├── C1_W01_Challenge.xlsx
+│   └── C1_W01_Challenge - Solution.xlsx
 │
 ├── Week 2/
-│ ├── Exercises/
-│ ├── C1_W02_Challenge.xlsx
-│ └── C1_W02_Challenge - Solution.xlsx
+│   ├── Exercises/
+│   ├── C1_W02_Challenge.xlsx
+│   └── C1_W02_Challenge - Solution.xlsx
 │
 ├── Week 3/
-│ ├── Exercises/
-│ ├── C1_W03_Challenge.xlsx
-│ └── C1_W03_Challenge - Solution.xlsx
+│   ├── Exercises/
+│   ├── C1_W03_Challenge.xlsx
+│   └── C1_W03_Challenge - Solution.xlsx
 │
 ├── Week 4/
-│ ├── Exercises/
-│ ├── C1_W04_Challenge.xlsx
-│ └── C1_W04_Challenge - Solution.xlsx
+│   ├── Exercises/
+│   ├── C1_W04_Challenge.xlsx
+│   └── C1_W04_Challenge - Solution.xlsx
 │
 ├── Week 5/
-│ ├── Exercises/
-│ ├── C1_W05_Challenge.xlsx
-│ └── C1_W05_Challenge - Solution.xlsx
+│   ├── Exercises/
+│   ├── C1_W05_Challenge.xlsx
+│   └── C1_W05_Challenge - Solution.xlsx
 │
 ├── Week 6/
-│ ├── Exercises/
-│ ├── C1_W06_Challenge.xlsx
-│ └── C1_W06_Challenge - Solution.xlsx
+│   ├── Exercises/
+│   ├── C1_W06_Challenge.xlsx
+│   └── C1_W06_Challenge - Solution.xlsx
 │
-├── C1_Final_Assessment - Solution.xlsx
-└── C1_Final_Assessment.xlsx
+├── C1_Final_Assessment.xlsx
+└── C1_Final_Assessment - Solution.xlsx
+
 
 ---
 
