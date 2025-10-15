@@ -256,7 +256,7 @@ Each folder in this repository represents one stage of my growth — from core s
 - **Program Duration:** ~6 months (self-paced)  
 - **Completion Year:** 2024  
 - **Final Project:** Business Case Analysis Dashboard  
-- **Certificate Verification:** [https://www.coursera.org/verify/EXAMPLECODE](https://media.licdn.com/dms/document/media/v2/D4E2DAQGufGFogZX-pQ/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1700078504980?e=1760572800&v=beta&t=yxzP0U2i2tUVsGZrMqumcvtfoFn_9wZ-PMYjqL-_9gQ)
+- **Certificate Verification:** [Certification](https://media.licdn.com/dms/document/media/v2/D4E2DAQGufGFogZX-pQ/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1700078504980?e=1760572800&v=beta&t=yxzP0U2i2tUVsGZrMqumcvtfoFn_9wZ-PMYjqL-_9gQ)
 
 ---
 
